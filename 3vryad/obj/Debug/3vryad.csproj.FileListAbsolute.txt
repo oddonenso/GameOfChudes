@@ -1,0 +1,11 @@
+C:\Users\STUDENT\Desktop\Moriarty Oddone\3vryad\3vryad\bin\Debug\3vryad.exe.config
+C:\Users\STUDENT\Desktop\Moriarty Oddone\3vryad\3vryad\bin\Debug\3vryad.exe
+C:\Users\STUDENT\Desktop\Moriarty Oddone\3vryad\3vryad\bin\Debug\3vryad.pdb
+C:\Users\STUDENT\Desktop\Moriarty Oddone\3vryad\3vryad\obj\Debug\3vryad.csproj.AssemblyReference.cache
+C:\Users\STUDENT\Desktop\Moriarty Oddone\3vryad\3vryad\obj\Debug\3vryad.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENT\Desktop\Moriarty Oddone\3vryad\3vryad\obj\Debug\_3vryad.Form1.resources
+C:\Users\STUDENT\Desktop\Moriarty Oddone\3vryad\3vryad\obj\Debug\_3vryad.Properties.Resources.resources
+C:\Users\STUDENT\Desktop\Moriarty Oddone\3vryad\3vryad\obj\Debug\3vryad.csproj.GenerateResource.cache
+C:\Users\STUDENT\Desktop\Moriarty Oddone\3vryad\3vryad\obj\Debug\3vryad.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT\Desktop\Moriarty Oddone\3vryad\3vryad\obj\Debug\3vryad.exe
+C:\Users\STUDENT\Desktop\Moriarty Oddone\3vryad\3vryad\obj\Debug\3vryad.pdb
